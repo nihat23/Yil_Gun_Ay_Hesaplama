@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tarih hesaplama", "tarih hesaplama\tarih hesaplama.vdproj", "{68335542-DC74-492A-B7BE-278A186AA87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68335542-DC74-492A-B7BE-278A186AA87F}.Debug|Default.ActiveCfg = Debug
+		{68335542-DC74-492A-B7BE-278A186AA87F}.Debug|Default.Build.0 = Debug
+		{68335542-DC74-492A-B7BE-278A186AA87F}.Release|Default.ActiveCfg = Release
+		{68335542-DC74-492A-B7BE-278A186AA87F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A373F461-8B86-4268-B048-DD818D627FA3}
+	EndGlobalSection
+EndGlobal

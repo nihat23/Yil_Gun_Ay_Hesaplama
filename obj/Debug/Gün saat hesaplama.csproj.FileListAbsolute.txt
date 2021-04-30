@@ -1,0 +1,10 @@
+D:\VB\Gün saat hesaplama\bin\Debug\Gün saat hesaplama.exe.config
+D:\VB\Gün saat hesaplama\bin\Debug\Gün saat hesaplama.exe
+D:\VB\Gün saat hesaplama\bin\Debug\Gün saat hesaplama.pdb
+D:\VB\Gün saat hesaplama\obj\Debug\Gün saat hesaplama.csprojAssemblyReference.cache
+D:\VB\Gün saat hesaplama\obj\Debug\Gün_saat_hesaplama.Form1.resources
+D:\VB\Gün saat hesaplama\obj\Debug\Gün_saat_hesaplama.Properties.Resources.resources
+D:\VB\Gün saat hesaplama\obj\Debug\Gün saat hesaplama.csproj.GenerateResource.cache
+D:\VB\Gün saat hesaplama\obj\Debug\Gün saat hesaplama.exe
+D:\VB\Gün saat hesaplama\obj\Debug\Gün saat hesaplama.pdb
+D:\VB\Gün saat hesaplama\obj\Debug\Gün saat hesaplama.csproj.CoreCompileInputs.cache
